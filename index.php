@@ -28,9 +28,9 @@
 
  <!---Weak Visual Area--->
 <main>	
-		<p>Junting and Jialin are majoring in Business at University of Rochester. 
-	     </p>
-		<p>Richard is studying Computer Science as his major at University of Rochester.
+		<p>Jinting, Jialin and Richard are all taking CSC 174 this semester.
+		Junting and Jialin are majoring in Business at University of Rochester. 
+		Richard is special because he is studying Computer Science as his major at University of Rochester.
         </p>
 
 	</main>
@@ -40,7 +40,9 @@
  <!---Terminal Area--->
 	<footer>
 	<section>
+	<h1> Attention! </h1>
 	learn more about those students
+	Two Business Majors vs One CS Major
 	</section>
 	<section>
 	CSC174: Advanced Front-end Web Design and Development
