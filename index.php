@@ -21,7 +21,7 @@
 <nav>
 		<ul>
 			<li><a class="is-current" href="home.php">Home</a></li>
-			<li><a href="students.php">Students</a></li>
+			<li><a href="students.php"> Browse Students</a></li>
 		</ul>
 
 </nav>
