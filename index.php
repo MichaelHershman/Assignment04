@@ -21,9 +21,7 @@
 <nav>
 		<ul>
 			<li><a class="is-current" href="home.php">Home</a></li>
-			<li><a href="junting.php">Junting Chen</a></li>
-			<li><a href="richard.php">Richard O Akomea</a></li>
-			<li><a href="jialin.php">Jialin Huo</a></li>
+			<li><a href="students.php">Students</a></li>
 		</ul>
 
 </nav>
