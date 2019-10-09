@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Assignment 04</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<script src="js/menu-highlighter.js"></script>
-</head>
   <body>
 <div class="container">
 	
@@ -22,7 +15,7 @@
 
 <nav class="pos">
 		<ul>
-			<li><a href="index.html">Home</a></li>
+			<li><a href="index.php">Home</a></li>
 			<li><a class="is-current" href="students.php">Students</a></li>
 		</ul>
 
