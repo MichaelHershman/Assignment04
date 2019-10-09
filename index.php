@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php include "inc/html-top.php"; ?>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -23,8 +23,8 @@
  <!---Strong Follow Area--->
 <nav class="str">
 		<ul>
-			<li><a class="is-current" href="index.html">Home</a></li>
-			<li><a href="students.html"> Browse Students</a></li>
+			<li><a class="is-current" href="index.php">Home</a></li>
+			<li><a href="students.php"> Browse Students</a></li>
 		</ul>
 
 </nav>
